@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jn0LUriKhdUoda3ZyZUuUBkoHuphZLe5peacg1e9zLnchR1uOn/8EoBEQ30qY35k1IcYGfKyeWYgNe8/gMQy/A==",
+  "dgSpecHash": "OateqT1Z3sv3hxvMUfdXQUHukbajlYp0103YQyM/KuQUD5cEkYIJhe2CHvyKW0p5xW8dwyra+QjsPGZChMcarg==",
   "success": true,
-  "projectFilePath": "/Users/northgate/Projects/ACH_Find_Invalid_Characters/ACH_Invalid_Characters.csproj",
+  "projectFilePath": "/home/warri/Projects/ACH_Find_Invalid_Characters/ACH_Invalid_Characters.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

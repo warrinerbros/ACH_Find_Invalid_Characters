@@ -1,0 +1,15 @@
+/home/warri/Projects/ACH_Find_Invalid_Characters/bin/Debug/net6.0/ACH_Invalid_Characters
+/home/warri/Projects/ACH_Find_Invalid_Characters/bin/Debug/net6.0/ACH_Invalid_Characters.deps.json
+/home/warri/Projects/ACH_Find_Invalid_Characters/bin/Debug/net6.0/ACH_Invalid_Characters.runtimeconfig.json
+/home/warri/Projects/ACH_Find_Invalid_Characters/bin/Debug/net6.0/ACH_Invalid_Characters.dll
+/home/warri/Projects/ACH_Find_Invalid_Characters/bin/Debug/net6.0/ref/ACH_Invalid_Characters.dll
+/home/warri/Projects/ACH_Find_Invalid_Characters/bin/Debug/net6.0/ACH_Invalid_Characters.pdb
+/home/warri/Projects/ACH_Find_Invalid_Characters/obj/Debug/net6.0/ACH_Invalid_Characters.csproj.AssemblyReference.cache
+/home/warri/Projects/ACH_Find_Invalid_Characters/obj/Debug/net6.0/ACH_Invalid_Characters.GeneratedMSBuildEditorConfig.editorconfig
+/home/warri/Projects/ACH_Find_Invalid_Characters/obj/Debug/net6.0/ACH_Invalid_Characters.AssemblyInfoInputs.cache
+/home/warri/Projects/ACH_Find_Invalid_Characters/obj/Debug/net6.0/ACH_Invalid_Characters.AssemblyInfo.cs
+/home/warri/Projects/ACH_Find_Invalid_Characters/obj/Debug/net6.0/ACH_Invalid_Characters.csproj.CoreCompileInputs.cache
+/home/warri/Projects/ACH_Find_Invalid_Characters/obj/Debug/net6.0/ACH_Invalid_Characters.dll
+/home/warri/Projects/ACH_Find_Invalid_Characters/obj/Debug/net6.0/ref/ACH_Invalid_Characters.dll
+/home/warri/Projects/ACH_Find_Invalid_Characters/obj/Debug/net6.0/ACH_Invalid_Characters.pdb
+/home/warri/Projects/ACH_Find_Invalid_Characters/obj/Debug/net6.0/ACH_Invalid_Characters.genruntimeconfig.cache

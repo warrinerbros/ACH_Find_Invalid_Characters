@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/northgate/.dotnet/store/|arch|/|tfm|",
-      "/Users/northgate/.nuget/packages"
+      "/home/warri/.dotnet/store/|arch|/|tfm|",
+      "/home/warri/.nuget/packages"
     ]
   }
 }
